@@ -1,5 +1,4 @@
-# EllasiaHub
-ell repository
+
 hello everyone!
 
 My name is ellasia my favorite food is noodles my favorite subject is science (who dosen't love science)
